@@ -1,14 +1,14 @@
 # Site settings
-title: Site Long Title
-short_title: Site Title
+title: SMK DARUL FALAH
+short_title: SEKAFA
 description: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eleifend metus eget justo tincidunt, nec consequat turpis pretium. Etiam varius tellus tortor, in mattis ex convallis vel.
 baseurl: ""
-url: "http://opendatahandbook.org" # the base hostname & protocol for your site
-github_username:  okfn
-github_repo:  opendatahandbook
-paypal: admin@okfn.org
-contact: https://discuss.okfn.org/c/network-and-community/open-data-handbook
+url: "http://sekafa.github.io" # the base hostname & protocol for your site
+#github_username:  okfn
+#github_repo:  opendatahandbook
+#paypal: admin@okfn.org
+#contact: https://discuss.okfn.org/c/network-and-community/open-data-handbook
 
 devs:
   -
